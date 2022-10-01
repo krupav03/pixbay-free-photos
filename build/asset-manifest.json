@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac5e3ac5.css",
+    "main.js": "/static/js/main.b5d3b9d0.js",
+    "static/js/787.1a806407.chunk.js": "/static/js/787.1a806407.chunk.js",
+    "static/media/godavari.png": "/static/media/godavari.ac08b8a84222e6d37863.png",
+    "index.html": "/index.html",
+    "main.ac5e3ac5.css.map": "/static/css/main.ac5e3ac5.css.map",
+    "main.b5d3b9d0.js.map": "/static/js/main.b5d3b9d0.js.map",
+    "787.1a806407.chunk.js.map": "/static/js/787.1a806407.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5e3ac5.css",
+    "static/js/main.b5d3b9d0.js"
+  ]
+}

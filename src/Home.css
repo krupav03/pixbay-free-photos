@@ -1,0 +1,10 @@
+.bgImage {
+  background-size: cover;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./godavari.png");
+  overflow: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+}
